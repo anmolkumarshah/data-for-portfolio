@@ -1,0 +1,46 @@
+{
+  "timeline": [
+    {
+      "title": "High School Graduation",
+      "designation": "Student",
+      "date": "2015-06-15",
+      "description": "Completed high school with a focus on science and mathematics, graduating with honors."
+    },
+    {
+      "title": "Bachelor's Degree in Computer Science",
+      "designation": "Undergraduate Student",
+      "date": "2019-05-20",
+      "description": "Graduated with a Bachelor of Science in Computer Science. Engaged in various programming projects and internships."
+    },
+    {
+      "title": "Software Development Intern",
+      "designation": "Intern",
+      "date": "2018-06-01",
+      "description": "Worked as a summer intern at Tech Solutions Inc. Assisted in developing web applications and gained hands-on experience in full-stack development."
+    },
+    {
+      "title": "Junior Software Engineer",
+      "designation": "Junior Engineer",
+      "date": "2019-08-01",
+      "description": "Joined Innovatech as a Junior Software Engineer. Contributed to backend development and collaborated with cross-functional teams."
+    },
+    {
+      "title": "Software Engineer",
+      "designation": "Software Engineer",
+      "date": "2021-03-15",
+      "description": "Promoted to Software Engineer. Took on more responsibilities in project management and led a team of junior developers."
+    },
+    {
+      "title": "Certified Kubernetes Administrator",
+      "designation": "Certified Professional",
+      "date": "2022-07-10",
+      "description": "Obtained Kubernetes certification to enhance skills in container orchestration and cloud-native technologies."
+    },
+    {
+      "title": "Senior Software Engineer",
+      "designation": "Senior Engineer",
+      "date": "2023-11-01",
+      "description": "Currently working as a Senior Software Engineer at Tech Innovations Corp. Leading several high-impact projects and mentoring new team members."
+    }
+  ]
+}
