@@ -1,10 +1,10 @@
 {
   "timeline": [
-     {
+    {
       "title": "PROMOTION",
       "designation": "Engineer",
       "date": "November 2023",
-        "icon": "event",
+      "icon": "event",
       "description": "Promoted To Engineer Level In Virtusa"
     },
     {
@@ -24,23 +24,23 @@
     {
       "title": "ENGINEERING",
       "designation": "Student",
-      "icon": "college",
       "date": "June 2022",
+      "icon": "college",
       "description": "Graduated in B.E. CSE From RTMNU University, Engg. Aggregate 84.39%"
     },
     {
       "title": "HSC",
       "designation": "Student",
-      "icon": "school",
       "date": "March 2018",
-      "description": "Passed 12th grade in Science(PCMB) with 77.69%"
+      "icon": "school",
+      "description": "Passed 12th grade in Science (PCMB) with 77.69%"
     },
     {
       "title": "SSC",
       "designation": "Student",
-      "icon": "school",
       "date": "April 2016",
-      "description": "Passes 10th grade with 90.80%"
-    },
+      "icon": "school",
+      "description": "Passed 10th grade with 90.80%"
+    }
   ]
 }
