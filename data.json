@@ -1,5 +1,20 @@
 {
   "about" : ["I'm a passionate software developer with experience in various aspects of the field, including Java, web development with React, mobile development, backend architecture, databases, and problem-solving. I thrive in tackling complex challenges and building efficient, user-friendly solutions."],
+  "certificates" : [
+    { "img": "./photos/13.png", "title": "CloudAcademy AWS DVA-C02" },
+    { "img": "./photos/2.png", "title": "Oracle Certified Associate Java SE 8" },
+    { "img": "./photos/11.png", "title": "Internship as Flutter Developer" },
+    { "img": "./photos/1.png", "title": "Internship as Flutter Developer" },
+    { "img": "./photos/6.png", "title": "Coursera - ReactJS" },
+    { "img": "./photos/12.png", "title": "Coursera - NodeJS" },
+    { "img": "./photos/3.png", "title": "Udemy - JavaScript" },
+    { "img": "./photos/8.png", "title": "Coursera - Bootstrap 4" },
+    { "img": "./photos/4.png", "title": "Coursera - ES6 Basics" },
+    { "img": "./photos/5.png", "title": "Coursera - RESTFUL API & HTTP" },
+    { "img": "./photos/9.png", "title": "Udemy - Git & Github" },
+    { "img": "./photos/10.png", "title": "Coursera - Data Science" },
+    { "img": "./photos/7.png", "title": "Google - Digital Marketing" }
+  ],
   "timeline": [
     {
       "title": "PROMOTION",
