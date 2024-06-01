@@ -1,20 +1,19 @@
 {
   "about" : ["I'm a passionate software developer with experience in various aspects of the field, including Java, web development with React, mobile development, backend architecture, databases, and problem-solving. I thrive in tackling complex challenges and building efficient, user-friendly solutions."],
   "certificates" : [
-    [
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/13.png", "title": "CloudAcademy AWS DVA-C02" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/2.png", "title": "Oracle Certified Associate Java SE 8" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/11.png", "title": "Internship as Flutter Developer" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/1.png", "title": "Internship as Flutter Developer" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/6.png", "title": "Coursera - ReactJS" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/12.png", "title": "Coursera - NodeJS" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/3.png", "title": "Udemy - JavaScript" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/8.png", "title": "Coursera - Bootstrap 4" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/4.png", "title": "Coursera - ES6 Basics" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/5.png", "title": "Coursera - RESTFUL API & HTTP" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/9.png", "title": "Udemy - Git & Github" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/10.png", "title": "Coursera - Data Science" },
-      { "img": "https://raw.githubusercontent.com/anmolkumarshah/data-for-portfolio/main/photos/7.png", "title": "Google - Digital Marketing" }
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/13.png?raw=true", "title": "CloudAcademy AWS DVA-C02" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/2.png", "title": "Oracle Certified Associate Java SE 8" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/11.png", "title": "Internship as Flutter Developer" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/1.png", "title": "Internship as Flutter Developer" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/6.png", "title": "Coursera - ReactJS" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/12.png", "title": "Coursera - NodeJS" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/3.png", "title": "Udemy - JavaScript" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/8.png", "title": "Coursera - Bootstrap 4" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/4.png", "title": "Coursera - ES6 Basics" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/5.png", "title": "Coursera - RESTFUL API & HTTP" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/9.png", "title": "Udemy - Git & Github" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/10.png", "title": "Coursera - Data Science" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/7.png", "title": "Google - Digital Marketing" }
   ],
   "timeline": [
     {
