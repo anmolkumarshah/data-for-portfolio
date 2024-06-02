@@ -4,7 +4,6 @@
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/13.png?raw=true", "title": "CloudAcademy AWS DVA-C02" },
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/2.jpg?raw=true", "title": "Oracle Certified Associate Java SE 8" },
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/11.jpg?raw=true", "title": "Internship as Flutter Developer" },
-    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/1.jpg?raw=true", "title": "Internship as Flutter Developer" },
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/6.jpg?raw=true", "title": "Coursera - ReactJS" },
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/12.jpg?raw=true", "title": "Coursera - NodeJS" },
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/3.jpg?raw=true", "title": "Udemy - JavaScript" },
@@ -13,7 +12,8 @@
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/5.jpg?raw=true", "title": "Coursera - RESTFUL API & HTTP" },
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/9.jpg?raw=true", "title": "Udemy - Git & Github" },
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/10.jpg?raw=true", "title": "Coursera - Data Science" },
-    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/7.jpg?raw=true", "title": "Google - Digital Marketing" }
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/7.jpg?raw=true", "title": "Google - Digital Marketing" },
+    { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/1.jpg?raw=true", "title": "Internship as Flutter Developer" }
   ],
   "timeline": [
     {
