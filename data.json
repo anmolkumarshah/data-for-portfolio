@@ -1,5 +1,5 @@
 {
-  "about" : ["I'm a passionate software developer with experience in various aspects of the field, including Java, web development with React, mobile development, backend architecture, databases, and problem-solving. I thrive in tackling complex challenges and building efficient, user-friendly solutions."],
+  "about" : ["Results-oriented Back-End Developer with 3.5 years of hands-on experience specializing in Java-based technologies within the fintech industry. Proven ability to build and optimize high-performance, scalable microservices used by millions of users. Skilled in leveraging open-source frameworks, managing Linux-based deployments in on-premise data centers, and ensuring reliable system performance under strict SLAs. Adept at collaborating across teams to deliver resilient, production-grade solutions that power financial products at scale."],
   "certificates" : [
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/13.png?raw=true", "title": "CloudAcademy AWS DVA-C02" },
     { "img": "https://github.com/anmolkumarshah/data-for-portfolio/blob/main/photos/2.jpg?raw=true", "title": "Oracle Certified Associate Java SE 8" },
